@@ -1,9 +1,13 @@
-#home-div {
-    background-color: royalblue;
-    width: 100%;
+.border {
     border: solid #ED2939 10px;
     border-radius: 25px;
     margin-bottom: 10px;
+}
+
+#home-div {
+    background-color: royalblue;
+    width: 100%;
+
 }
 
 #home-header{
@@ -13,6 +17,13 @@
     font-size: 50px;
 }
 
-#recipe-link{
-
+a {
+    display: inline-block;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 35px;
+    font-weight: bold;
+    color: royalblue;
+    padding: 25px;
+    width: 100%;
+    text-align: center;
 }
