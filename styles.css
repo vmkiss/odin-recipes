@@ -23,3 +23,42 @@ a {
     width: 100%;
     text-align: center;
 }
+
+.center-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.header {
+    color: royalblue;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.container {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 18px;
+    text-align: center;
+    padding: 10px;
+}
+
+p{
+    font-size: 18px;
+    padding: 10px;
+}
+
+.header,
+p {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ul,
+ol {
+    list-style-position: inside;
+    text-align: center;
+}
+
+
