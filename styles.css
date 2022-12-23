@@ -37,6 +37,14 @@ a {
     font-weight: bolder;
 }
 
+.subheader {
+    color: royalblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+    font-weight:bold;
+    text-align: center;
+}
+
 .container {
     font-family:'Courier New', Courier, monospace;
     font-size: 18px;
