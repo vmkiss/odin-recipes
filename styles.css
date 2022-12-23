@@ -4,17 +4,13 @@
     margin-bottom: 10px;
 }
 
-#home-div {
+#title {
     background-color: royalblue;
     width: 100%;
-
-}
-
-#home-header{
     color: white;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
-    font-size: 50px;
+    font-size: 36px;
 }
 
 a {
